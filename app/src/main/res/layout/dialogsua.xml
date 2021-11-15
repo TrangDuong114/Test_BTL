@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#61B894"
+    android:layout_width="350dp"
+    android:layout_height="200dp">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:textColor="#C4C3CF"
+        android:textSize="30dp"
+        android:text="Bạn muốn sửa thông tin không?"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></TextView>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_marginLeft="30dp"
+            android:background="#C4C3CF"
+            android:id="@+id/btnco_sua"
+            android:text="Có"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        <Button
+            android:layout_marginLeft="30dp"
+            android:background="#C4C3CF"
+            android:id="@+id/btnko_sua"
+            android:text="Không"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+    </LinearLayout>
+
+</LinearLayout>

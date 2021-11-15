@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/Test_BTL/app/src/main/res/drawable/background_button.xml" value="0.12314814814814815" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.1" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_tr_hom_nay.xml" value="0.26262626262626265" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_tr_hom_nay2.xml" value="0.1" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_tr_lich_hom_nay.xml" value="0.176" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_tr_lich_su.xml" value="0.11018518518518519" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_tr_sua_tt.xml" value="0.11018518518518519" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_tr_them1.xml" value="0.176" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_tr_them2.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/activity_tr_thong_tin.xml" value="0.152" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/dialoge_them.xml" value="0.1" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/dialogsua.xml" value="0.1" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/dialogxoa.xml" value="0.1" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/exit.xml" value="0.16530797101449277" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/layout/listhn.xml" value="0.136" />
+        <entry key="..\:/android/Test_BTL/app/src/main/res/menu/menuadd.xml" value="0.25052083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25416666666666665" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
